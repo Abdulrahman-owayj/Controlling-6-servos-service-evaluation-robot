@@ -4,9 +4,13 @@ In this repository i designed a circuit to control the service evaluation robot'
 **Tinkercad Link:**  https://www.tinkercad.com/things/ae56idbvjNn-dazzling-hango/editel?tenant=circuits
 
 
+
+
 **Circuit diagram**
 
 ![image](https://user-images.githubusercontent.com/5675794/124623557-c2ca0180-de84-11eb-9f71-b824a6b0f7a5.png)
+
+![image](https://user-images.githubusercontent.com/5675794/124625734-bb0b5c80-de86-11eb-8119-81351b28be25.png)
 
 
 **Code**
